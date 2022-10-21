@@ -1,0 +1,19 @@
+{
+  "input": "./source",
+  "output": "./galerije-fotografija",
+  "title": "Galerije fotografija",
+  "albums-output-folder": "albumi",
+  "embed-exif": true,
+  "home-album-name": "Index galerija",
+  "link-prefix": "prefix-test",
+  "theme-path": "./themes/fk",
+  "locale": "hr",
+  "footer": "test footer text",
+  "seo-location": "https://fotokurti.hr/galerije-fotografija",
+  "thumb-size": 300,
+  "large-size": 1200,
+  "watermark": "./themes/fk/public/watermark/watermark.png",
+  "watermark-position": "Repeat",
+  "usage-stats": false,
+  "cleanup": true
+}
